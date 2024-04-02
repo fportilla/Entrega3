@@ -1,0 +1,47 @@
+[
+    {
+      "id": 0,
+      "title": "PAÑAL TENA",
+      "description": "ETAPA II",
+      "price": 3400,
+      "thumbnail": "C://DOCUMENTS/LOGO.PNG",
+      "code": 8,
+      "stock": 23
+    },
+    {
+      "id": 2,
+      "title": "SERVILLETA FAMILIA",
+      "description": "CUIDADO PARA EL HOGAR",
+      "price": 7800,
+      "thumbnail": "C://DOCUMENTS/LOGO.PNG",
+      "code": 4,
+      "stock": 23
+    },
+    {
+      "id": 3,
+      "title": "PAPEL HIGIENICO FAMILIA",
+      "description": "TRIPLE HOJA",
+      "price": 3400,
+      "thumbnail": "C://DOCUMENTS/LOGO.PNG",
+      "code": 4,
+      "stock": 23
+    },
+    {
+      "id": 4,
+      "title": "ARROZ DIANA",
+      "description": "MEJOR CALIDAD",
+      "price": 3400,
+      "thumbnail": "C://DOCUMENTS/LOGO.PNG",
+      "code": 4,
+      "stock": 23
+    },
+    {
+        "id": 5,
+        "title": "HARINA DE TRIGO",
+        "description": "MEJOR CALIDAD",
+        "price": 3400,
+        "thumbnail": "C://DOCUMENTS/LOGO.PNG",
+        "code": 4,
+        "stock": 23
+      }
+  ]
